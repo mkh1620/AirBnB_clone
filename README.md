@@ -1,4 +1,4 @@
-95% of storage used … If you run out, you won't have enough storage to create, edit, and upload files. Get 100 GB of storage for RM 8.49 RM 2.15/month for 3 months.
+
 # The AirBnB Clone Project
 ![AirBnB Logo](https://www.pngitem.com/pimgs/m/132-1322125_transparent-background-airbnb-logo-hd-png-download.png)
 
